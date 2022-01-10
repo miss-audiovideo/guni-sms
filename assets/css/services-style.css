@@ -1,0 +1,561 @@
+.health-care {
+	  background-image: url(../images/services/health-care/section-1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 83%;
+}
+
+.healthcare-img {
+    margin: 15% 0;
+}
+
+.healthcare-caption h2 {
+        font-weight: bold;
+    margin-bottom: 36px;
+}
+
+
+div#value-addition-mobile .caption {
+    border: 3px solid #7abdd8;
+    padding: 5px 0;
+    border-radius: 7px;
+    width: 300px;
+    margin: 0 auto;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+div#value-addition-mobile .carousel-control-next, div#value-addition-mobile .carousel-control-prev {
+    color: #7abdd8;
+    font-size: 51px;
+    bottom: unset;
+    opacity: 1;
+}
+
+
+
+.healthcare-caption p {
+        font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.healthcare-caption a {
+    font-size: 18px;
+}
+
+section.health-care-system {
+    padding: 60px 0;
+}
+
+.health-care-header h5 {
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 75px;
+}
+
+
+ul.fico-health-care-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.fico-health-care-list h5 {
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+ul.fico-health-care-list i {
+    color: #7d83ff;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 20px;
+}
+
+ul.fico-health-care-list li {
+    margin-bottom: 15px;
+}
+
+
+ul.fico-health-care-list p {
+    font-size: 14px;
+}
+
+.health-care-header h2 {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+section.health-care-services .container {
+    background-image: url(../images/services/health-care/health-care-services-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+section.health-care-services .container {
+    padding: 60px 0;
+}
+
+.education-services .container {
+background-image: none !important;
+    }
+
+.education-services {
+    background-image: url(../images/services/education/edu-service-bg.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#marketing-services {
+    background-image: url(../images/services/marketing/rectangle-469.svg) !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+}
+
+.realestate-services {
+    background-image: url(../images/services/real-estate/path-9946.svg) !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+}
+
+#marketing-services .container {
+    background-image: none !important;
+        }
+
+        .realestate-services .container {
+            background-image: none !important;
+                }
+
+section.health-care-business {
+    padding: 60px 0;
+}
+
+section.value-addition {
+    padding: 60px 0;
+}
+
+
+section.health-care-business p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.btn-value-addition {
+    background-color: #9DDED6;
+    font-weight: bold;
+    margin: auto;
+    padding: 15px 0;
+    border-radius: 33px;
+}
+
+
+.value-addition-hdr p {
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.value-addition-navtabs .nav-tabs .nav-item.show .nav-link, .value-addition-navtabs .nav-tabs .nav-link.active {
+    color: #000000;
+    border-color: transparent;
+    border-bottom: 4px solid #5ACCDE;
+    border-radius: 0;
+}
+
+.value-addition-navtabs .nav-tabs {
+    border-bottom: 1px solid #5ACCDE;
+}
+
+.value-addition-navtabs .nav-tabs .nav-link:focus, .value-addition-navtabs .nav-tabs .nav-link:hover {
+    border-color: transparent;
+       border-bottom: 4px solid #5ACCDE;
+}
+
+.value-addition-navtabs .nav-tabs .nav-item {
+    flex-grow: 1;
+    flex-basis: auto;
+}
+
+.value-addition-navtabs .nav-tabs .nav-link {
+
+    color: #000000;
+}
+
+.value-addition-navtabs .tab-content {
+    background-color: #dff1f3;
+    border-radius: 15px;
+    margin-top: 20px;
+    min-height: 700px;
+    padding-bottom: 30px;
+}
+
+
+
+.value-addition-navtabs .tab-content img {
+height: 500px;
+    }
+
+
+.value-addition-navtabs .tab-content h5 {
+    color: #212322;
+    font-weight: bold;
+    margin: 15px 0 50px 0;
+}
+
+
+
+/* *** Health care closed *** */
+
+/* Education start */
+
+.education-care {
+      background-image: url(../images/services/education/education-bg.svg);
+    background-repeat: no-repeat;
+    
+}
+
+.marketing-sms {
+    background-image: url(../images/services/marketing/marketing-bg.svg);
+  background-repeat: no-repeat;
+  
+}
+
+.education-img {
+    margin: 15% 0;
+}
+
+.education-caption h2 {
+        font-weight: bold;
+    margin-bottom: 36px;
+}
+
+
+.education-caption p {
+        font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.education-caption a {
+    font-size: 18px;
+}
+
+.sms-col-edu {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 8px;
+    min-height: 300px;
+    transition: transform .2s;
+}
+
+.sms-col-edu:hover {
+    transform: scale(1.1);
+}
+
+.sms-col-edu i {
+    font-size: 40px;
+}
+
+.hospitly-col i {
+    font-size: 40px;
+}
+
+.sms-col-edu p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.sms-col-edu h4 {
+    font-size: 21px;
+}
+
+.value-addition-navtabs li span {
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+/* Education closed */
+
+
+/* food delivery start */
+
+.food-delivery {
+    background-image: url(../images/services/food/food-bg.svg);
+  background-repeat: no-repeat;
+  
+}
+
+.hospitality-sec {
+  background-image: url(../images/services/hospitality/hospitality-sec-bg.svg);
+  background-repeat: no-repeat;
+}
+
+.sms-based-solution-services .container {
+    background-image: url(../images/services/hospitality/facility-bg.svg) !important;
+    background-repeat: no-repeat;
+}
+
+.real-estate {
+  background-image: url(../images/services/real-estate/group-13039.svg);
+  background-repeat: no-repeat;
+}
+
+.realestate-img {
+    margin: 135px 0;
+}
+
+.reliable-sms-serv-sol {
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.btn-value-customize-solution {
+    background-color: #ffffff;
+    font-weight: bold;
+    margin: auto;
+    padding: 15px 0;
+    border-radius: 33px;
+}
+
+.sms-hospi-content {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+
+/* food delivery closed */
+
+
+/* RESPONSIVE START */
+
+
+       @media (max-width: 991px) {
+
+
+.healthcare-caption {
+    margin: 40px 0 15px 0;
+    text-align: center;
+    }
+
+    .education-caption {
+    margin: 40px 0 15px 0;
+        text-align: center;
+}
+
+#marketing-services {
+    background-size: cover;
+    background-position: bottom;
+}
+
+.value-addition-navtabs .tab-content img {
+    height: auto;
+}
+
+.value-addition-navtabs .tab-content {
+    min-height: auto;
+}
+
+section#food-system {
+    background-image: none;
+}
+
+
+section.health-care .col-lg-6.d-flex.align-items-center, .education-care .col-lg-6.d-flex.align-items-center {
+    display: block !important;
+}
+
+.education-care {
+    background-image: url(../images/services/education/edu-care-mob-bg.png);
+    background-repeat: no-repeat;
+}
+
+.hospitality-sec {
+    background-image: url(../images/services/hospitality/sms-hospitality-mob-bg.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.food-delivery .col-lg-6.d-flex.align-items-center {
+    display: block !important;
+}
+
+.hospitality-sec .col-lg-6.d-flex.align-items-center {
+    display: block !important;
+}
+
+.real-estate .col-lg-6.d-flex.align-items-center {
+    display: block !important;
+}
+
+.realestate-img {
+    margin: 0px 0;
+}
+
+.btn-value-customize-solution {
+    width: 75% !important;
+}
+
+.value-adden-inner-btn .btn {
+    font-size: 10px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+.sms-col-edu {
+    border: 1px solid #11B6CA;
+}
+
+.sms-col-edu {
+    margin-bottom: 30px;
+}
+
+.healthcare-img, .education-img {
+    margin: 0;
+}
+
+.health-care {
+    background-size: 100% 51%;
+}
+
+
+.health-care-header h5 {
+    font-size: 18px;
+}
+
+ul.fico-health-care-list .ml-2 {
+    text-align: center;
+}
+
+section.health-care-services .container {
+    background-image: none;
+        padding: 60px 15px;
+}
+
+section.health-care-services {
+    background-image: url(../images/services/health-care/health-care-services-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.health-care-services .col-lg-5.d-flex.align-items-center {
+    display: block !important;
+    text-align: center;
+}
+
+
+.health-care-services img {
+    margin-bottom: 30px;
+}
+
+.btn-value-addition {
+  width: 75% !important;
+    }
+
+    .education-services {
+        background-image: none !important;
+    }
+
+section.health-care-system {
+       background-image: url(../images/services/education/trans-edu-mob-bg.png);
+    background-position: 0px 90%;
+    background-repeat: no-repeat;
+}
+
+.sms-based-solution-hd {
+    margin-top: 50px;
+}
+
+.hospitly-addition-navtabs .col-lg-4.col-12.text-center {
+    margin-bottom: 35px;
+}
+
+.hospitly-addition-navtabs .tab-content {
+    background-color: #c3ebed !important;
+}
+
+
+.fico-health-care-list li.d-flex.col-5 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+}
+
+.sms-based-solution-services .container {
+    background-image: url(../images/services/hospitality/facility-bg.svg) !important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+section.sms-based-solution-services .col-lg-6.col-12.pl-0 {
+    margin-top: 0 !important;
+    padding-left: 15px !important;
+}
+
+section.sms-based-solution-services .col-lg-6.col-12.pr-0 {
+    padding-right: 15px !important;
+    margin-top: 15px !important;
+}
+
+
+       	}
+
+
+       	       @media (max-width: 414px) {
+
+.healthcare-caption h2, .education-caption h2 {
+    font-size: 28px;
+}
+
+.health-care-header h2 {
+    font-size: 23px !important;
+}
+
+
+.health-care-header h2 {
+    font-size: 25px;
+}
+
+div#value-addition-mobile .caption {
+    width: 250px;
+    font-size: 16px;
+}
+
+
+.healthcare-caption p, .education-caption p {
+    font-size: 16px;
+    }
+
+    .value-addition-navtabs .nav-tabs {
+    flex-direction: column;
+    text-align: left;
+}
+
+section.health-care-business p {
+    font-size: 14px;
+    }
+
+    .education-services p {
+    text-align: justify;
+    font-size: 14px;
+}
+
+.hospitly-system h2 {
+    font-size: 21px !important;
+}
+
+.hospitly-system h5 {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.real-estate {
+    background-image: url(../images/services/real-estate/path-9681.svg);
+    background-repeat: no-repeat;
+}
+
+.realestate-services {
+    background-image: url(../images/services/real-estate/path-9947.svg) !important;
+}
+
+       	       }
