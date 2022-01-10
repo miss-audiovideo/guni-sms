@@ -1,0 +1,6 @@
+https://drive.google.com/drive/folders/15e5UFstKbM_PLC_gc-y2wwtwCT7zg5r8?usp=sharing
+
+css to be added after:-  86 line no
+js to be added after:-  1980 line no
+
+images will be added under the assets/images/folder_name_same_as_in_css
