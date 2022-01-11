@@ -8,6 +8,7 @@
 }
 #section1 .col-md-6:first-of-type .col-md-11{
     font-size: 28px;
+    font-weight: 600;
 }
 #section1 button{
     background-color: #11B6CA;
@@ -25,7 +26,7 @@
     text-align: center;
     font-size: 28px;
     font-weight: 800;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 #section2{
     margin-bottom: 40px;
@@ -109,6 +110,7 @@
 #section3 .row:first-of-type p:first-of-type{
     font-size: 28px;
     font-weight: 800;
+    margin-bottom: 40px;
 }
 #section3 .row:first-of-type{
     justify-content: center;
