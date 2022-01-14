@@ -133,6 +133,7 @@
 #section3 .row:nth-of-type(2) .col-md-4 p{
     font-weight: 500;
     font-size: 18px;
+    
     text-align: left !important;
 }
 #section3 .row:nth-of-type(2) .col-md-4 p span{
@@ -368,6 +369,7 @@
     margin-top: 0px;
 }
 }
+
 @media(max-width:767px){
     #section6 .col-lg-7 .col-md-10{
         background: none;
