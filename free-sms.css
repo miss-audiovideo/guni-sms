@@ -1,4 +1,16 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    width: 100%;
+    font-size: 16px;
+    overflow-x: hidden;
+  }
+
 .row{
     margin-left: 0px;
     margin-right: 0px;
@@ -482,3 +494,362 @@
     padding: 50px 10px;
 }
 }
+
+
+
+/* ******************* guniwebsite css start ******************************** */
+
+
+
+
+h2,
+h3 {
+  font-size: 20px;
+}
+
+.heading {
+  margin-top: 2rem;
+  text-align: center !important;
+  text-transform: capitalize;
+}
+
+.heading h1 {
+  font-size: 2rem;
+}
+
+.main_image {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-direction: column;
+}
+
+.main_hero_para {
+  font-weight: bold;
+}
+
+.main_image img {
+  width: 400px;
+    margin-top: 2rem;
+}
+
+.button_application {
+  text-transform: capitalize;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #11b6ca;
+  padding: 0.5rem 2rem;
+  border: none !important;
+  border-radius: 50px;
+  color: #ffff;
+  margin-bottom: 1rem;
+}
+
+.four_coloumn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 3rem;
+}
+
+.four_card {
+  padding: 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.four_card img{
+  margin-bottom: 1rem;
+}
+
+.para{
+  font-size:0.8rem;
+}
+
+.hr{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+hr {
+
+  width: 200px;
+  background: blue;
+}
+
+.third_part {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.third_part_title img {
+  width: 500px;
+  margin-top: 1.5rem;
+}
+
+
+
+.five_part {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #11b6ca;
+  width: 100%;
+}
+
+.five_part {
+  background: none !important;
+}
+
+.six_block {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 0fr 1fr 1fr;
+  padding: 2rem 5rem;
+}
+
+.boxes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.boxes_color{
+  background-color:rgb(216 216 216);
+}
+
+
+.image_part {
+  font-size: 2rem;
+  cursor: pointer;
+}
+.image_title {
+  padding: 1rem;
+}
+
+.arrow {
+  display: flex;
+  justify-content: space-between !important;
+  margin-right: 4rem;
+  margin-left: 4rem;
+  font-size: 1.7rem;
+  cursor: pointer;
+}
+
+.seven_section {
+  background-color: #75dbe7;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-content: center;
+  justify-content: center;
+  place-items: center;
+  grid-gap: 35px;
+  padding: 1rem 3rem;
+}
+
+.boxes1 {
+  background-color: #ffff;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 1rem;
+  padding: 2rem 2rem;
+}
+
+
+.img_handshake{
+    margin-bottom: 0.8rem;
+}
+
+.fourt_part{
+  background: #11b6ca;
+  color:white;
+  display:flex;
+  flex-direction: column;
+  margin-top: 3rem;
+}
+
+.fourt_part_title{
+  text-align: center;
+}
+
+li{
+  text-decoration: none;
+  list-style-type: none;
+  text-transform: capitalize;
+}
+
+.side_menu{
+  display: flex;
+}
+
+.green_logo img{
+width: 100px;
+padding:0.5rem;
+}
+
+.side_menu{
+    height:100vh;
+}
+
+
+.green_card{
+    border-radius: 0px 76px 0px 17px;
+    width: 20%;
+    background: #22a78c;
+    margin:.8rem;
+}
+.red_card{
+  width: 80%;
+
+    height: 50vh;
+}
+
+
+.ul_list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 20%;
+}
+
+.card_container{
+  width: 75%;
+  background: #fff;
+  display:flex;
+}
+
+
+.green_card_sidebar{
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 1rem;
+
+}
+
+/* ----------- red_card_header------------  */
+
+.red_card_header{
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+  
+}
+
+.red_card_header_sub2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.red_card_header_sub2 div{
+    display:flex;
+    padding: .2rem;
+
+}
+
+.red_card_header_sub2 div:nth-child(1){
+    /* padding: .2rem; */
+}
+.red_card_header_sub2 button {
+    border:none;
+    background-color: #11B6CA;
+    color: #ffff;
+    text-transform: capitalize;
+    padding:.3rem .7rem;
+    border-radius: 10px;
+}
+
+.atext img{
+    background-color: #1CAF92;
+   width: 20px;
+}
+
+.red_card_messagebox{
+    display: flex;
+   margin-bottom: 2rem;
+   margin-top: 2rem;
+}
+.textarea_button{
+    display: flex;
+    
+}
+
+.red_card_messagebox .cart_button,.discount_button,.red_card_send_button,.red_card_schedule {
+    border:none;
+    background-color: #158BBB;
+    color: #ffff;
+    text-transform: capitalize;
+    padding:.3rem .7rem;
+    border-radius: 10px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+
+
+
+
+/* ***** media queries **** */
+
+@media only screen and (max-width: 600px) {
+  .six_block {
+    display: block;
+    padding: 0px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .boxes {
+    margin-bottom: 1rem;
+  }
+
+
+  .four_coloumn {
+    display: block;
+    padding: 0px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .seven_section{
+    display: block;
+  text-align: center;
+  }
+  .third_part_title img {
+   padding:1rem 4rem ;
+}
+
+}
+
+
+@media only screen and (max-width: 400px) {
+
+.image_title h1{
+  font-size:1rem;
+}
+.img_handshake{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes1{
+  height:auto;
+}
+
+}
+
+
+
+
+/* ******************* guniwebsite css end ******************************** */
